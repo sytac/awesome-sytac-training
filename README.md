@@ -7,35 +7,41 @@ Wanna add a training you love? Shoot us a [PR](https://help.github.com/en/github
 - Topics:
   - [Backend JVM](#backend-jvm)
   - [Cloud](#cloud)
-  - [Artificial Intelligence](#ai-md)
-  - [Javascript](#js)
-  - [Scum/Agile](#scrum-agile)
+  - [Artificial Intelligence](#artificial-intelligence)
+  - [Javascript](#javascript)
+  - [Scum/Agile](#scumagile)
   
   
-  ## Backend JVM
+## Backend JVM
 
 **[`^        back to top        ^`](#)**
 
 _Spring framework_
 - [Spring Live Web Conference, Youtube (March 2020)](https://www.youtube.com/watch?v=F-EdDnjF6ao&list=PLgGXSWYM2FpOAQjMXE9ynaV7uDrPVpGWw)
 
-  ## Cloud
+## Cloud
 
 **[`^        back to top        ^`](#)**
 
-  ## Artificial Intelligence
+_Kubernetes_
+
+- [Introduction to Kubernetes on edX](https://www.edx.org/course/introduction-to-kubernetes): free course, a certificate can be purchased
+- [Certified Kubernetes Application Developer (CKAD) on Linux Fundation](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/): certification with study material
+- [Certified Kubernetes Application Developer (CKAD) on CNCF](https://www.cncf.io/certification/ckad/): certification with study material
+
+## Artificial Intelligence
   
 **[`^        back to top        ^`](#)**
   
-  ## Javascript
+## Javascript
  
 **[`^        back to top        ^`](#)**
  
-  ## Scum/Agile
+## Scum/Agile
   
 **[`^        back to top        ^`](#)**
   
-  ## Specific topics
+## Specific topics
   
 **[`^        back to top        ^`](#)**
  
