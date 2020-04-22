@@ -12,6 +12,7 @@ Wanna add a training you love? Shoot us a [PR](https://github.com/sytac/awesome-
   - [Artificial Intelligence](#artificial-intelligence)
   - [Scum/Agile](#scumagile)
   - [Distributed Systems](#distributed-systems)
+  - [All around](#all-around)
   
   
 ## Backend JVM
@@ -59,4 +60,12 @@ _Kubernetes_
 ## Distributed systems
 
 - [Lightbend academy courses](https://academy.lightbend.com/courses)
+
+**[`^        back to top        ^`](#)**
+
+## All around
+
+- [Dev.Tube : YouTube for developers](https://dev.tube)
+
+**[`^        back to top        ^`](#)**
 
