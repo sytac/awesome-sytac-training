@@ -1,7 +1,7 @@
 # awesome-sytac-training
 A list of the best training you can attend.
 
-Wanna add a training you love? Shoot us a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+Wanna add a training you love? Shoot us a [PR](https://github.com/sytac/awesome-sytac-training/pulls)
 
 
 - Topics:
