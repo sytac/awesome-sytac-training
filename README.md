@@ -18,6 +18,7 @@ Wanna add a training you love? Shoot us a [PR](https://help.github.com/en/github
 
 _Spring framework_
 - [Spring Live Web Conference, Youtube (March 2020)](https://www.youtube.com/watch?v=F-EdDnjF6ao&list=PLgGXSWYM2FpOAQjMXE9ynaV7uDrPVpGWw)
+- [Spring Framework 5 Beginner to Guru](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/)
 
 ## Cloud
 
