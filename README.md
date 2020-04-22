@@ -20,6 +20,10 @@ _Spring framework_
 - [Spring Live Web Conference, Youtube (March 2020)](https://www.youtube.com/watch?v=F-EdDnjF6ao&list=PLgGXSWYM2FpOAQjMXE9ynaV7uDrPVpGWw)
 - [Spring Framework 5 Beginner to Guru](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/)
 
+_Kotlin_
+- [Kotlin for Java Developers on Coursera.org](https://www.coursera.org/learn/kotlin-for-java-developers/)
+- [Kotlin for Java Developers on Linkedin learning](https://www.linkedin.com/learning/kotlin-for-java-developers/)
+
 ## Cloud
 
 **[`^        back to top        ^`](#)**
