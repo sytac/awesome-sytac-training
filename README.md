@@ -6,9 +6,10 @@ Wanna add a training you love? Shoot us a [PR](https://github.com/sytac/awesome-
 
 - Topics:
   - [Backend JVM](#backend-jvm)
-  - [Cloud](#cloud)
-  - [Artificial Intelligence](#artificial-intelligence)
   - [Javascript](#javascript)
+  - [Cloud](#cloud)
+  - [Mobile](#mobile)
+  - [Artificial Intelligence](#artificial-intelligence)
   - [Scum/Agile](#scumagile)
   
   
@@ -24,6 +25,10 @@ _Kotlin_
 - [Kotlin for Java Developers on Coursera.org](https://www.coursera.org/learn/kotlin-for-java-developers/)
 - [Kotlin for Java Developers on Linkedin learning](https://www.linkedin.com/learning/kotlin-for-java-developers/)
 
+## Javascript
+ 
+**[`^        back to top        ^`](#)**
+
 ## Cloud
 
 **[`^        back to top        ^`](#)**
@@ -34,14 +39,14 @@ _Kubernetes_
 - [Certified Kubernetes Application Developer (CKAD) on Linux Fundation](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/): certification with study material
 - [Certified Kubernetes Application Developer (CKAD) on CNCF](https://www.cncf.io/certification/ckad/): certification with study material
 
+## Mobile
+
+**[`^        back to top        ^`](#)**
+
 ## Artificial Intelligence
   
 **[`^        back to top        ^`](#)**
-  
-## Javascript
- 
-**[`^        back to top        ^`](#)**
- 
+   
 ## Scum/Agile
   
 **[`^        back to top        ^`](#)**
