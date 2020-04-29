@@ -12,6 +12,7 @@ Wanna add a training you love? Shoot us a [PR](https://github.com/sytac/awesome-
   - [Artificial Intelligence](#artificial-intelligence)
   - [Scum/Agile](#scumagile)
   - [Distributed Systems](#distributed-systems)
+  - [Data](#data)
   - [All around](#all-around)
   
   
@@ -60,6 +61,12 @@ _Kubernetes_
 ## Distributed systems
 
 - [Lightbend academy courses](https://academy.lightbend.com/courses)
+
+**[`^        back to top        ^`](#)**
+
+## Data
+
+- [Udemy: Complete guide to Protobuf](https://www.udemy.com/course/protocol-buffers/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-sfTZWmi8w8zfyliZq6RA.g&LSNPUBID=JVFxdTr9V80)
 
 **[`^        back to top        ^`](#)**
 
