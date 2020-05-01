@@ -33,6 +33,9 @@ _Kotlin_
 **[`^        back to top        ^`](#)**
 
 ## Cloud
+- [OpenShift for the Absolute Beginners - Hands-on](https://www.udemy.com/course/learn-openshift/)
+- [Ansible Essentials: Simplicity in Automation](https://www.udemy.com/course/ansible-essentials-simplicity-in-automation/)
+
 
 **[`^        back to top        ^`](#)**
 
