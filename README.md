@@ -30,6 +30,7 @@ _Kotlin_
 
 ## Javascript
 - [Egghead: Short, instructional screencast video tutorials for web developers](https://egghead.io/)
+- [ES6+/React/ReactRounter4/ReactNative courses by Tyler Mcginnis](https://learn.tylermcginnis.com/)
 
 **[`^        back to top        ^`](#)**
 
@@ -37,6 +38,7 @@ _Kotlin_
 - [OpenShift for the Absolute Beginners - Hands-on](https://www.udemy.com/course/learn-openshift/)
 - [Ansible Essentials: Simplicity in Automation](https://www.udemy.com/course/ansible-essentials-simplicity-in-automation/)
 - [Nanodegree: Cloud Developer](https://www.udacity.com/course/cloud-developer-nanodegree--nd9990)
+- [AWS Certified Solutions Architect - Associate 2020](https://www.udemy.com/course/aws-certified-solutions-architect-associate/)
 
 **[`^        back to top        ^`](#)**
 
@@ -53,6 +55,8 @@ _Kubernetes_
 **[`^        back to top        ^`](#)**
 
 ## Artificial Intelligence
+
+- [Udemy: Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/share/101WyWBEUZeV5TRX4=/)
   
 **[`^        back to top        ^`](#)**
    
@@ -73,6 +77,8 @@ _Kubernetes_
 ## Data
 
 - [Udemy: Complete guide to Protobuf](https://www.udemy.com/course/protocol-buffers/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-sfTZWmi8w8zfyliZq6RA.g&LSNPUBID=JVFxdTr9V80)
+- [Udemy: Apache Spark with Scala - Hands On with Big Data!](https://www.udemy.com/share/101YVsBEUZeV5TRX4=/)
+- [Udemy: Welcome to Apache Spark 3 & Big Data Essentials w/ Scala | Rock the JVM](https://www.udemy.com/share/102cr4BEUZeV5TRX4=/)
 
 **[`^        back to top        ^`](#)**
 
