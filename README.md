@@ -40,6 +40,7 @@ _Kotlin_
 - [Ansible Essentials: Simplicity in Automation](https://www.udemy.com/course/ansible-essentials-simplicity-in-automation/)
 - [Nanodegree: Cloud Developer](https://www.udacity.com/course/cloud-developer-nanodegree--nd9990)
 - [AWS Certified Solutions Architect - Associate 2020](https://www.udemy.com/course/aws-certified-solutions-architect-associate/)
+- [AWS Certified Solutions Architect Associate Practice Exams](https://www.udemy.com/share/102DhnAkQYc19aRHg=/)
 
 **[`^        back to top        ^`](#)**
 
@@ -48,6 +49,10 @@ _Kubernetes_
 - [Introduction to Kubernetes on edX](https://www.edx.org/course/introduction-to-kubernetes): free course, a certificate can be purchased
 - [Certified Kubernetes Application Developer (CKAD) on Linux Fundation](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/): certification with study material
 - [Certified Kubernetes Application Developer (CKAD) on CNCF](https://www.cncf.io/certification/ckad/): certification with study material
+
+_Docker_
+
+- [Udemy: Docker Essentials](https://www.udemy.com/share/101rq4AkQYc19aRHg=/)
 
 ## Mobile
 - [RayWenderlich: iOS, Android, Flutter & Unity](https://www.raywenderlich.com/)
@@ -61,7 +66,7 @@ _Kubernetes_
   
 **[`^        back to top        ^`](#)**
    
-## Scum/Agile
+## Scrum/Agile
   
 **[`^        back to top        ^`](#)**
   
@@ -73,6 +78,7 @@ _Kubernetes_
 
 - [Lightbend academy courses](https://academy.lightbend.com/courses)
 - [Udi Dahan's epic training -free for a limited time-](https://learn.particular.net/courses/adsd-online-free)
+- [Udemy: Microservices Software Architecture: Patterns and Techniques](https://www.udemy.com/share/101YTmAkQYc19aRHg=/)
 
 **[`^        back to top        ^`](#)**
 
@@ -81,6 +87,7 @@ _Kubernetes_
 - [Udemy: Complete guide to Protobuf](https://www.udemy.com/course/protocol-buffers/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-sfTZWmi8w8zfyliZq6RA.g&LSNPUBID=JVFxdTr9V80)
 - [Udemy: Apache Spark with Scala - Hands On with Big Data!](https://www.udemy.com/share/101YVsBEUZeV5TRX4=/)
 - [Udemy: Welcome to Apache Spark 3 & Big Data Essentials w/ Scala | Rock the JVM](https://www.udemy.com/share/102cr4BEUZeV5TRX4=/)
+- [Udemy: Apache Kafka Series - Learn Apache Kafka for Beginners v2](https://www.udemy.com/share/1013hcAkQYc19aRHg=/)
 
 **[`^        back to top        ^`](#)**
 
