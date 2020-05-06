@@ -10,7 +10,7 @@ Wanna add a training you love? Shoot us a [PR](https://github.com/sytac/awesome-
   - [Cloud](#cloud)
   - [Mobile](#mobile)
   - [Artificial Intelligence](#artificial-intelligence)
-  - [Scum/Agile](#scumagile)
+  - [Scrum/Agile](#scrumagile)
   - [Distributed Systems](#distributed-systems)
   - [Data](#data)
   - [All around](#all-around)
@@ -58,10 +58,14 @@ _Kubernetes_
 ## Artificial Intelligence
 
 - [Udemy: Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/share/101WyWBEUZeV5TRX4=/)
+- [Udacity: AI Programming with Python](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)
   
 **[`^        back to top        ^`](#)**
    
-## Scum/Agile
+## Scrum/Agile
+
+- [Udacity: Become a Product Manager](https://www.udacity.com/course/product-manager-nanodegree--nd036)
+- [Different Scrum Roles Training For Certification](https://www.scrum.org)
   
 **[`^        back to top        ^`](#)**
   
@@ -88,6 +92,7 @@ _Kubernetes_
 
 - [Dev.Tube : YouTube for developers](https://dev.tube)
 - [Destroy all software, a must see collection of screencasts](https://www.destroyallsoftware.com/screencasts)
+- [Mindfulness, Leadership and Influence](https://siyli.org)
 
 **[`^        back to top        ^`](#)**
 
