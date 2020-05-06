@@ -35,6 +35,7 @@ _Kotlin_
 ## Cloud
 - [OpenShift for the Absolute Beginners - Hands-on](https://www.udemy.com/course/learn-openshift/)
 - [Ansible Essentials: Simplicity in Automation](https://www.udemy.com/course/ansible-essentials-simplicity-in-automation/)
+- [AWS Certified Solutions Architect - Associate 2020](https://www.udemy.com/course/aws-certified-solutions-architect-associate/)
 
 
 **[`^        back to top        ^`](#)**
