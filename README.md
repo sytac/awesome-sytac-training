@@ -50,6 +50,8 @@ _Kubernetes_
 **[`^        back to top        ^`](#)**
 
 ## Artificial Intelligence
+
+- [Udemy: Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/share/101WyWBEUZeV5TRX4=/)
   
 **[`^        back to top        ^`](#)**
    
@@ -70,6 +72,8 @@ _Kubernetes_
 ## Data
 
 - [Udemy: Complete guide to Protobuf](https://www.udemy.com/course/protocol-buffers/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-sfTZWmi8w8zfyliZq6RA.g&LSNPUBID=JVFxdTr9V80)
+- [Udemy: Apache Spark with Scala - Hands On with Big Data!](https://www.udemy.com/share/101YVsBEUZeV5TRX4=/)
+- [Udemy: Welcome to Apache Spark 3 & Big Data Essentials w/ Scala | Rock the JVM](https://www.udemy.com/share/102cr4BEUZeV5TRX4=/)
 
 **[`^        back to top        ^`](#)**
 
