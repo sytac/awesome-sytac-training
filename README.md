@@ -1,5 +1,5 @@
 # awesome-sytac-training
-A list of the best training you can attend.
+A list of the best training you can attend online.
 
 Wanna add a training you love? Shoot us a [PR](https://github.com/sytac/awesome-sytac-training/pulls)
 
