@@ -31,6 +31,7 @@ _Kotlin_
 ## Javascript
 - [Egghead: Short, instructional screencast video tutorials for web developers](https://egghead.io/)
 - [ES6+/React/ReactRounter4/ReactNative courses by Tyler Mcginnis](https://learn.tylermcginnis.com/)
+- [Multiple courses on JS, regex, sql by Gary Bernhardt](https://www.executeprogram.com/courses)
 
 **[`^        back to top        ^`](#)**
 
@@ -71,6 +72,7 @@ _Kubernetes_
 ## Distributed systems
 
 - [Lightbend academy courses](https://academy.lightbend.com/courses)
+- [Udi Dahan's epic training -free for a limited time-](https://learn.particular.net/courses/adsd-online-free)
 
 **[`^        back to top        ^`](#)**
 
@@ -85,6 +87,7 @@ _Kubernetes_
 ## All around
 
 - [Dev.Tube : YouTube for developers](https://dev.tube)
+- [Destroy all software, a must see collection of screencasts](https://www.destroyallsoftware.com/screencasts)
 
 **[`^        back to top        ^`](#)**
 
