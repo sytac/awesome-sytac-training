@@ -29,14 +29,16 @@ _Kotlin_
 - [Kotlin for Java Developers on Linkedin learning](https://www.linkedin.com/learning/kotlin-for-java-developers/)
 
 ## Javascript
- 
+- [Egghead: Short, instructional screencast video tutorials for web developers](https://egghead.io/)
+- [ES6+/React/ReactRounter4/ReactNative courses by Tyler Mcginnis](https://learn.tylermcginnis.com/)
+
 **[`^        back to top        ^`](#)**
 
 ## Cloud
 - [OpenShift for the Absolute Beginners - Hands-on](https://www.udemy.com/course/learn-openshift/)
 - [Ansible Essentials: Simplicity in Automation](https://www.udemy.com/course/ansible-essentials-simplicity-in-automation/)
+- [Nanodegree: Cloud Developer](https://www.udacity.com/course/cloud-developer-nanodegree--nd9990)
 - [AWS Certified Solutions Architect - Associate 2020](https://www.udemy.com/course/aws-certified-solutions-architect-associate/)
-
 
 **[`^        back to top        ^`](#)**
 
@@ -47,6 +49,8 @@ _Kubernetes_
 - [Certified Kubernetes Application Developer (CKAD) on CNCF](https://www.cncf.io/certification/ckad/): certification with study material
 
 ## Mobile
+- [RayWenderlich: iOS, Android, Flutter & Unity](https://www.raywenderlich.com/)
+- [Udacity: Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
 
 **[`^        back to top        ^`](#)**
 
