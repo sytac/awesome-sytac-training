@@ -10,7 +10,7 @@ Wanna add a training you love? Shoot us a [PR](https://github.com/sytac/awesome-
   - [Cloud](#cloud)
   - [Mobile](#mobile)
   - [Artificial Intelligence](#artificial-intelligence)
-  - [Scrum/Agile](#scrumagile)
+  - [Scrum/Agile/Management](#scrumagilemanagement)
   - [Distributed Systems](#distributed-systems)
   - [Data](#data)
   - [All around](#all-around)
