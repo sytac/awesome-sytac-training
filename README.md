@@ -41,6 +41,7 @@ _Kotlin_
 - [Nanodegree: Cloud Developer](https://www.udacity.com/course/cloud-developer-nanodegree--nd9990)
 - [AWS Certified Solutions Architect - Associate 2020](https://www.udemy.com/course/aws-certified-solutions-architect-associate/)
 - [AWS Certified Solutions Architect Associate Practice Exams](https://www.udemy.com/share/102DhnAkQYc19aRHg=/)
+- [AWS Certified DevOps Professional 2020](https://linuxacademy.com/course/aws-certified-devops-professional-new/)
 
 **[`^        back to top        ^`](#)**
 
