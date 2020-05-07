@@ -67,7 +67,7 @@ _Docker_
   
 **[`^        back to top        ^`](#)**
    
-## Scrum/Agile
+## Scrum/Agile/Management
 
 - [Udacity: Become a Product Manager](https://www.udacity.com/course/product-manager-nanodegree--nd036)
 - [Different Scrum Roles Training For Certification](https://www.scrum.org)
