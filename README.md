@@ -1,4 +1,6 @@
 # awesome-sytac-training
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 A list of the best training you can attend online.
 
 Wanna add a training you love? Shoot us a [PR](https://github.com/sytac/awesome-sytac-training/pulls)
