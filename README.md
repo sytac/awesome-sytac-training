@@ -41,6 +41,7 @@ _Kotlin_
 
 _Kubernetes_
 
+- [Kubernetes Mastery](https://www.udemy.com/course/kubernetesmastery): Bret Fishers course on K8S. Certificate upon completion. 8h of video materials.
 - [Introduction to Kubernetes on edX](https://www.edx.org/course/introduction-to-kubernetes): free course, a certificate can be purchased
 - [Certified Kubernetes Application Developer (CKAD) on Linux Fundation](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/): certification with study material
 - [Certified Kubernetes Application Developer (CKAD) on CNCF](https://www.cncf.io/certification/ckad/): certification with study material
