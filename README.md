@@ -19,16 +19,26 @@ Wanna add a training you love? Shoot us a [PR](https://github.com/sytac/awesome-
   
   
 ## Backend JVM
-
-**[`^        back to top        ^`](#)**
+_Core Java_
+- [Applying Concurrency and Multi-threading to Common Java Patterns](https://app.pluralsight.com/library/courses/java-patterns-concurrency-multi-threading)
+- [Advanced Java Concurrent Patterns](https://app.pluralsight.com/library/courses/java-concurrent-patterns-advanced)
+- [Java Application Performance and Memory Management](https://www.udemy.com/course/java-application-performance-and-memory-management/)
 
 _Spring framework_
 - [Spring Live Web Conference, Youtube (March 2020)](https://www.youtube.com/watch?v=F-EdDnjF6ao&list=PLgGXSWYM2FpOAQjMXE9ynaV7uDrPVpGWw)
 - [Spring Framework 5 Beginner to Guru](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/)
+- [Reactive Programming with Spring Framework 5](https://www.udemy.com/course/reactive-programming-with-spring-framework-5/)
 
 _Kotlin_
 - [Kotlin for Java Developers on Coursera.org](https://www.coursera.org/learn/kotlin-for-java-developers/)
 - [Kotlin for Java Developers on Linkedin learning](https://www.linkedin.com/learning/kotlin-for-java-developers/)
+
+_Scala & Functional Programming_
+ - [Scala & Functional Programming for Beginners | Rock the JVM](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/)
+ - [Advanced Scala and Functional Programming | Rock the JVM](https://www.udemy.com/course/advanced-scala/)
+ - [Functional Programming in Scala Coursera Specialization](https://www.coursera.org/specializations/scala)
+
+**[`^        back to top        ^`](#)**
 
 ## Javascript
 - [Egghead: Short, instructional screencast video tutorials for web developers](https://egghead.io/)
@@ -44,6 +54,8 @@ _Kotlin_
 - [AWS Certified Solutions Architect - Associate 2020](https://www.udemy.com/course/aws-certified-solutions-architect-associate/)
 - [AWS Certified Solutions Architect Associate Practice Exams](https://www.udemy.com/share/102DhnAkQYc19aRHg=/)
 - [AWS Certified DevOps Professional 2020](https://linuxacademy.com/course/aws-certified-devops-professional-new/)
+- [Cloud Engineering with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
+- [Cloud Architecture with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/gcp-cloud-architect)
 
 **[`^        back to top        ^`](#)**
 
@@ -53,6 +65,7 @@ _Kubernetes_
 - [Introduction to Kubernetes on edX](https://www.edx.org/course/introduction-to-kubernetes): free course, a certificate can be purchased
 - [Certified Kubernetes Application Developer (CKAD) on Linux Fundation](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/): certification with study material
 - [Certified Kubernetes Application Developer (CKAD) on CNCF](https://www.cncf.io/certification/ckad/): certification with study material
+- [Certified Kubernetes Application Developer (CKAD) on Udemy](https://www.udemy.com/course/certified-kubernetes-application-developer/): certification preparation with hands-on labs
 
 _Docker_
 
