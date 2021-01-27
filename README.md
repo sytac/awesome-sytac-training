@@ -32,6 +32,7 @@ _Spring framework_
 _Kotlin_
 - [Kotlin for Java Developers on Coursera.org](https://www.coursera.org/learn/kotlin-for-java-developers/)
 - [Kotlin for Java Developers on Linkedin learning](https://www.linkedin.com/learning/kotlin-for-java-developers/)
+- [Kotlin for Java Developers on Udemy](https://www.udemy.com/course/kotlin-for-java-developers/)
 
 _Scala & Functional Programming_
  - [Scala & Functional Programming for Beginners | Rock the JVM](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/)
