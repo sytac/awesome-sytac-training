@@ -9,6 +9,7 @@ Wanna add a training you love? Shoot us a [PR](https://github.com/sytac/awesome-
 - Topics:
   - [Backend JVM](#backend-jvm)
   - [Javascript](#javascript)
+  - [PowerShell](#PowerShell)
   - [Cloud](#cloud)
   - [Mobile](#mobile)
   - [Artificial Intelligence](#artificial-intelligence)
@@ -47,6 +48,17 @@ _Scala & Functional Programming_
 
 **[`^        back to top        ^`](#)**
 
+## PowerShell
+- [Automating Administration with Windows PowerShell](https://www.youtube.com/watch?v=UVUd9_k9C6A)
+- [PowerShell Advanced Tools & Scripting](https://youtu.be/K4YDHFalAK8)
+- [Building PowerShell Modules](https://leanpub.com/building-powershell-modules)
+- [Error Handling](https://www.gngrninja.com/script-ninja/2016/6/5/powershell-getting-started-part-11-error-handling)
+- [Performance Tuning](https://thedotsource.com/2019/11/13/powershell-performance-tuning/)
+- [Using PowerShell with Azure Functions](https://www.youtube.com/watch?v=fIycfLlgph0)
+- [Azure Cloud Automation with PowerShell](https://www.udemy.com/course/azure-cloud-automation/)
+
+**[`^        back to top        ^`](#)**
+
 ## Cloud
 - [OpenShift for the Absolute Beginners - Hands-on](https://www.udemy.com/course/learn-openshift/)
 - [Ansible Essentials: Simplicity in Automation](https://www.udemy.com/course/ansible-essentials-simplicity-in-automation/)
@@ -56,6 +68,14 @@ _Scala & Functional Programming_
 - [AWS Certified DevOps Professional 2020](https://linuxacademy.com/course/aws-certified-devops-professional-new/)
 - [Cloud Engineering with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
 - [Cloud Architecture with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/gcp-cloud-architect)
+- [Microsoft: Azure Fundamentals AZ-900](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900?tab=tab-learning-paths)
+- [Microsoft: Azure Administrator AZ-104](https://cloudacademy.com/learning-paths/az-104-exam-preparation-microsoft-azure-administrator-1-1332/)
+- [Microsoft: Azure DevOps Engineer Expert AZ-400](https://www.pluralsight.com/paths/designing-and-implementing-microsoft-devops-solutions-az-400)
+- [Microsoft: Azure Security Engineer AZ-500](https://www.udemy.com/course/az-500-course/)
+- [Microsoft: Azure Networking Engineer AZ-700](https://www.pluralsight.com/paths/designing-and-implementing-microsoft-azure-networking-solutions-az-700)
+- [Microsoft: Azure Well Architected Landing Zones](https://portal.cloudskills.io/products/well-architected-azure-landing-zones-deep-dive)
+- [Microsoft: Azure Functions for DevOps Engineers](https://portal.cloudskills.io/azure-functions-powershell)
+- 
 
 **[`^        back to top        ^`](#)**
 
@@ -66,6 +86,7 @@ _Kubernetes_
 - [Certified Kubernetes Application Developer (CKAD) on Linux Fundation](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/): certification with study material
 - [Certified Kubernetes Application Developer (CKAD) on CNCF](https://www.cncf.io/certification/ckad/): certification with study material
 - [Certified Kubernetes Application Developer (CKAD) on Udemy](https://www.udemy.com/course/certified-kubernetes-application-developer/): certification preparation with hands-on labs
+- [Kubernetes from scratch - 30 projects in 8 weeks](https://cloudskills.io/courses/k8s-from-scratch)
 
 _Docker_
 
