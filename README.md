@@ -45,6 +45,8 @@ _Scala & Functional Programming_
 - [Egghead: Short, instructional screencast video tutorials for web developers](https://egghead.io/)
 - [ES6+/React/ReactRounter4/ReactNative courses by Tyler Mcginnis](https://learn.tylermcginnis.com/)
 - [Multiple courses on JS, regex, sql by Gary Bernhardt](https://www.executeprogram.com/courses)
+- [Testing JavaScript](https://testingjavascript.com/)
+- [Epic React](https://epicreact.dev/)
 
 **[`^        back to top        ^`](#)**
 
